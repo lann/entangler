@@ -1,0 +1,10 @@
+[package]
+name = "entangler"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0"
+pcap = "0.9"
+pnet_packet = "0.31"
+rustls = "0.20"
